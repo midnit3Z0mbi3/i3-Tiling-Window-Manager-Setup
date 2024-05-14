@@ -58,6 +58,6 @@ cp i3status.conf ~/.config/i3status/
 
 mod+Shift+r
 
-edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change wallpaper of the login screen.
+edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
