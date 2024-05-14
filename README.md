@@ -3,6 +3,8 @@ i3 window manager dot files, scripts, and tips on what packages to install in or
 
 This is a simple i3 setup for Kali Linux. No fancy terminal or customized desktop features. Standard terminal, no B.S.
 
+This will most certainly work on other linux distros. Give it a try.
+
 key bindings:
 
 Web Browser mod+b
