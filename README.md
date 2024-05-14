@@ -1,6 +1,6 @@
 # i3-window-manager-setup
 
-This is a simple i3 setup. No fancy terminal or customized desktop features. Smart gaps. Standard terminal, i3status bar, and i3lock screen, and dmenu.
+This is a simple i3 setup. No fancy terminal or customized desktop features. Smart gaps. Standard terminal, i3status bar, and i3lock screen, and menu.
 
 
 key bindings:
