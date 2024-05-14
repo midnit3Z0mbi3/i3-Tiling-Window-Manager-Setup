@@ -193,7 +193,7 @@ bar {
 
 #Gaps
 gaps inner 5
-gaps outer 0
+gaps outer 2
 smart_gaps on
 
 
