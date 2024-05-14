@@ -3,25 +3,6 @@
 This is a simple i3 setup. No fancy terminal or customized desktop features. Smart gaps. Standard terminal, i3status bar, i3lock screen, and menu.
 
 
-key bindings:
-
-Web Browser mod+b
-
-File Manager mod+Shift+Return  
-
-Password Manager mod+p  
-
-Lock screen mod+x 
-
-
-wallpaper:
-
-edit i3 config options at the bottom of the configuration file
-
-image - feh
-
-solid color (hex code) - xsetroot
-
 
 **Installation:**
 
@@ -77,3 +58,23 @@ hex color code or path to image
 to match the desktop wallpaper use hex code #301934
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
+
+key bindings:
+
+Web Browser mod+b
+
+File Manager mod+Shift+Return  
+
+Password Manager mod+p  
+
+Lock screen mod+x 
+
+
+wallpaper:
+
+edit i3 config options at the bottom of the configuration file
+
+image - feh
+
+solid color (hex code) - xsetroot
+
