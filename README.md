@@ -60,6 +60,14 @@ mkdir ~/.config/i3status
 
 cp i3status.conf ~/.config/i3status/
 
+or
+
+git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
+
+cd i3-window-manager-setup
+
+bash i3_customized.sh
+
 mod+Shift+r
 
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
