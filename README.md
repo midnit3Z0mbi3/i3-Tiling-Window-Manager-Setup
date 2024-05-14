@@ -60,8 +60,9 @@ mod+Shift+r
 
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
 
+hex color code or path to image
+
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
-hex color code or path to image
 
 to match the desktop wallpaper use hex code #301934
