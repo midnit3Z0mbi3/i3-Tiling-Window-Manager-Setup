@@ -7,13 +7,13 @@ standard terminal
 
 key bindings:
 
-mod+b  Web Browser
+Web Browser mod+b
 
-mod+Shift+Return  File Manager
+File Manager mod+Shift+Return  
 
-mod+p  Password Manager
+Password Manager mod+p  
 
-mod+x  lock screen
+Lock screen mod+x 
 
 
 wallpaper:
