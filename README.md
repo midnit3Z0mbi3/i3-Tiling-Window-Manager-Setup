@@ -33,7 +33,7 @@ git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
 
 chmod +x i3_install_setup.sh
 
-bash i3_install_setup.sh
+sudo bash i3_install_setup.sh
 
 
 or
