@@ -18,11 +18,6 @@ chmod +x i3_install_setup.sh
 
 sudo bash i3_install_setup.sh
 
-
-or
-
-sudo apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw firefox-esr xfce4-terminal xfce-goodies -y
-
 reboot
 
 you now have a working i3 setup
