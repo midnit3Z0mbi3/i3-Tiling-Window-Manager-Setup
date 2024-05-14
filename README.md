@@ -25,7 +25,7 @@ solid color (hex code) - xsetroot
 
 **Installation:**
 
-Install a linux distro that uses the apt package manager. Debian or Kali Linux. Do not install a desktop environment.
+Install Debian or Kali Linux. Do not install a desktop environment.
 
 clone this repository and run the set up script
 
