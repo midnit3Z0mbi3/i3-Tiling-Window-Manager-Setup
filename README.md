@@ -27,7 +27,7 @@ solid color (hex code) - xsetroot
 
 **Installation:**
 
-Install Kali Linux without a desktop. Make sure to UNCHECK all of the options for desktop selection. Reboot into your machine.
+Install Kali Linux without a desktop. Make sure to UNCHECK all options for desktop selection. Reboot into your machine.
 
 clone this repository and run the set up script
 
