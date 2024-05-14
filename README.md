@@ -1,9 +1,7 @@
 # i3-Kali-Linux
 i3 window manager dot files, scripts, and tips on what packages to install in order to get i3 up and running with Kali Linux.
 
-This is a simple i3 setup for Kali Linux. 
-
-standard terminal
+This is a simple i3 setup for Kali Linux. No fancy terminal or customized desktop features. Standard terminal, no B.S.
 
 key bindings:
 
