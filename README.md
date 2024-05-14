@@ -7,7 +7,7 @@ standard terminal
 
 key bindings:
 
-mod+b firefox - Web Browser
+mod+b - Web Browser
 
 mod+Shift+Return - File Manager
 
