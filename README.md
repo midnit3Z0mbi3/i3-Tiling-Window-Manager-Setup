@@ -50,6 +50,8 @@ you can choose to create a config and edit it, or you can use my config
 
 whichever option you choose generate a config after rebooting 
 
+git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
+
 cd i3-window-manager-setup
 
 cp config ~/.config/i3/
