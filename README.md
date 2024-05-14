@@ -25,7 +25,7 @@ image - feh
 solid color (hex code) - xsetroot
 
 
-**Installation**
+**Installation:**
 
 Install Kali Linux without a desktop. Make sure to UNCHECK all of the options for desktop selection. Reboot into your machine.
 
