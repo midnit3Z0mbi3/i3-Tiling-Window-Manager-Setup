@@ -28,6 +28,8 @@ whichever option you choose, generate a config when asked after rebooting.
 
 cd i3-window-manager-setup
 
+chmod +x i3_customized.sh
+
 bash i3_customized.sh
 
 Reload configuration mod+Shift+r
