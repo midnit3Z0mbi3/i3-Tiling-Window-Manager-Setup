@@ -26,8 +26,6 @@ you can choose to create a config and edit it, or you can use my config
 
 whichever option you choose, generate a config when asked after rebooting.
 
-git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
-
 cd i3-window-manager-setup
 
 bash i3_customized.sh
