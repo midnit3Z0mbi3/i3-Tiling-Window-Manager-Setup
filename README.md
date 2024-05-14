@@ -1,6 +1,6 @@
 # i3-window-manager-setup
 
-This is a simple i3 setup. No fancy terminal or customized desktop features. Standard terminal, standard i3status bar, standard i3lock screen.
+This is a simple i3 setup. No fancy terminal or customized desktop features. Standard terminal, i3status bar, and i3lock screen.
 
 
 key bindings:
