@@ -64,4 +64,4 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 hex color code or image
 
-to match the wallpaper set hex code #301934
+to match the desktop wallpaper set hex code #301934
