@@ -22,7 +22,7 @@ edit i3 config options at the bottom of the configuration file
 
 image - feh
 
-solid color - xsetroot
+solid color (hex code) - xsetroot
 
 
 
