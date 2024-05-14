@@ -25,5 +25,20 @@ image - feh
 solid color (hex code) - xsetroot
 
 
+**Installation**
 
+Install Kali Linux without a desktop. Make sure to UNCHECK all of the options for desktop selection. Reboot into your machine.
 
+clone this repository and run the set up script
+
+git clone https://github.com/midnit3Z0mbi3/i3wm-Kali-Linux.git
+
+reboot
+
+you can choose to create a config and edit it, or you can use my config
+
+cd i3wm-Kali-Linux
+
+cp config ~/.config/i3/
+
+mod+Shift+r
