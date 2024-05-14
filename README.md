@@ -40,7 +40,7 @@ bash i3_install_setup.sh
 
 or
 
-apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw -y
+apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw firefox-esr -y
 
 reboot
 
