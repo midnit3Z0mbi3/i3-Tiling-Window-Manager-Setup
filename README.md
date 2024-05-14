@@ -1,9 +1,8 @@
-# i3-Kali-Linux
-i3 window manager dot files, scripts, and tips on what packages to install in order to get i3 up and running with Kali Linux.
+# i3-window-manager-setup
+i3 window manager dot files, scripts, and tips on what packages to install in order to get i3 up and running.
 
-This is a simple i3 setup for Kali Linux. No fancy terminal or customized desktop features. Standard terminal, no B.S.
+This is a simple i3 setup. No fancy terminal or customized desktop features. Standard terminal, no BS.
 
-This will work on other linux distros too. Give it a try.
 
 key bindings:
 
@@ -27,11 +26,9 @@ solid color (hex code) - xsetroot
 
 **Installation:**
 
-Install Kali Linux without a desktop. Make sure to UNCHECK all options for desktop selection. Reboot into your machine.
-
 clone this repository and run the set up script
 
-git clone https://github.com/midnit3Z0mbi3/i3wm-Kali-Linux.git
+git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
 
 chmod +x i3_install_setup.sh
 
@@ -48,7 +45,7 @@ you now have a working i3 setup
 
 you can choose to create a config and edit it, or you can use my config
 
-cd i3wm-Kali-Linux
+cd i3-window-manager-setup
 
 cp config ~/.config/i3/
 
