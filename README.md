@@ -35,18 +35,6 @@ git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
 
 cd i3-window-manager-setup
 
-cp config ~/.config/i3/
-
-mkdir ~/.config/i3status
-
-cp i3status.conf ~/.config/i3status/
-
-or
-
-git clone https://github.com/midnit3Z0mbi3/i3-window-manager-setup.git
-
-cd i3-window-manager-setup
-
 bash i3_customized.sh
 
 Reload configuration mod+Shift+r
