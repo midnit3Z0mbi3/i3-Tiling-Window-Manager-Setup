@@ -33,6 +33,11 @@ clone this repository and run the set up script
 
 git clone https://github.com/midnit3Z0mbi3/i3wm-Kali-Linux.git
 
+
+or
+
+apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw -y
+
 reboot
 
 you can choose to create a config and edit it, or you can use my config
