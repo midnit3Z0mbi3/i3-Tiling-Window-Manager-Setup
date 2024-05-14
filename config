@@ -197,7 +197,7 @@ gaps outer 0
 smart_gaps on
 
 
-#Wallpaper picture using feh
+#Wallpaper picture use feh
 #exec --no-startup-id feh --bg-scale /home/user/Pictures/wallpapers/
 
 #Wallpaper solid color use xsetroot
