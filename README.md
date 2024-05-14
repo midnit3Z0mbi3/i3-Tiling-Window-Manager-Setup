@@ -42,7 +42,7 @@ to match the desktop wallpaper use hex code #301934
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
-wallpaper:
+**Wallpaper:**
 
 edit i3 config options at the bottom of the configuration file
 
@@ -50,7 +50,7 @@ image - feh
 
 solid color (hex code) - xsetroot
 
-**key bindings:**
+**Key Bindings:**
 
 Web Browser mod+b
 
