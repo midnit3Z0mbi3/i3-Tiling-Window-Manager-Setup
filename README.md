@@ -38,7 +38,7 @@ sudo bash i3_install_setup.sh
 
 or
 
-apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw firefox-esr xfce4-terminal xfce-goodies -y
+sudo apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw firefox-esr xfce4-terminal xfce-goodies -y
 
 reboot
 
