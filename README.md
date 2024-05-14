@@ -33,6 +33,10 @@ clone this repository and run the set up script
 
 git clone https://github.com/midnit3Z0mbi3/i3wm-Kali-Linux.git
 
+chmod +x i3_install_setup.sh
+
+bash i3_install_setup.sh
+
 
 or
 
@@ -40,10 +44,18 @@ apt install i3 lightdm thunar keepassxc pulseaudio ssh tor mpv ufw -y
 
 reboot
 
+you now have a working i3 setup
+
 you can choose to create a config and edit it, or you can use my config
 
 cd i3wm-Kali-Linux
 
 cp config ~/.config/i3/
 
+mkdir ~/.config/i3status
+
+cp i3status.conf ~/.config/i3status
+
 mod+Shift+r
+
+
