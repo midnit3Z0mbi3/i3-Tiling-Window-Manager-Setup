@@ -49,7 +49,7 @@ cd i3-window-manager-setup
 
 bash i3_customized.sh
 
-mod+Shift+r
+Reload configuration mod+Shift+r
 
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
 
