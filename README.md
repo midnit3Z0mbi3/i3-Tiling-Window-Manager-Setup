@@ -62,6 +62,6 @@ edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of t
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
-hex color code or image
+hex color code or path to image
 
 to match the desktop wallpaper use hex code #301934
