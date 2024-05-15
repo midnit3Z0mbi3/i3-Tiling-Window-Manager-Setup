@@ -57,6 +57,10 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
+**You can customize the desktop even more...**
+
+https://itsfoss.com/i3-customization/
+
 **Key Bindings:**
 
 Web Browser mod+b
@@ -66,8 +70,4 @@ File Manager mod+Shift+Return
 Password Manager mod+p  
 
 Lock screen mod+x 
-
-You can customize the desktop even more. 
-
-https://itsfoss.com/i3-customization/
 
