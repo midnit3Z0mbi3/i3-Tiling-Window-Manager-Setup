@@ -22,7 +22,7 @@ reboot
 
 you now have a working i3 setup
 
-you can choose to create a config and edit it, or you can use my config
+you can choose to create a config and edit it manually, or you can use my config
 
 whichever option you choose, generate a config when asked after rebooting.
 
