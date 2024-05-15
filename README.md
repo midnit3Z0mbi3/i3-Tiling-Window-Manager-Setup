@@ -71,3 +71,7 @@ Password Manager mod+p
 
 Lock screen mod+x 
 
+You can customize the desktop even more. 
+
+https://itsfoss.com/i3-customization/
+
