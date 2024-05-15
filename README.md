@@ -3,7 +3,7 @@
 This is a simple i3 setup. Smart gaps, standard terminal, i3status bar, i3lock screen, menu, and cava. Cava is a bar spectrum audio visualizer for terminal (ncurses) or desktop (SDL).
 
 
-**Installation:**
+**Install:**
 
 Install Debian or Kali Linux. Do not install a desktop environment.
 
