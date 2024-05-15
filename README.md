@@ -50,9 +50,7 @@ image - feh
 
 solid color (hex code) - xsetroot
 
-other neutral colors 
-
-https://www.color-name.com/neutral-blue.color
+other neutral colors https://www.color-name.com/neutral-blue.color
 
 **Key Bindings:**
 
