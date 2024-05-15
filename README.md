@@ -37,7 +37,7 @@ edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of t
 
 hex color code or path to image
 
-to match the desktop wallpaper use hex code #4D5C74 
+If you want to match the desktop wallpaper use hex code #4D5C74 
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
