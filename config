@@ -197,6 +197,10 @@ gaps outer 3
 smart_gaps on
 
 
+# Transparency with picom compositor
+exec_always picom -f
+
+
 #Wallpaper picture use feh
 #exec --no-startup-id feh --bg-scale /home/user/Pictures/wallpapers/
 
