@@ -37,9 +37,9 @@ edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of t
 
 background= hex color code or path to image
 
-userbackground= false (to make background solid color)
+userbackground= false (to use a solid color for the background)
 
-userbackground= true (to have a image as background)
+userbackground= true (to use an image for the background)
 
 If you would like the login page the same color as the desktop wallpaper, use hex code #4D5C74 
 
