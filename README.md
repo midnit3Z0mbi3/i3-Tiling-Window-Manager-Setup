@@ -37,7 +37,7 @@ reboot
 
 **Login Screen/Lightdm:**
 
-edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
+edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the background of the login screen.
 
 background= hex color code or path to image
 
