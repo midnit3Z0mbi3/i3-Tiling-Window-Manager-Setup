@@ -33,6 +33,8 @@ bash i3_customized.sh
 
 Reload the configuration file mod+Shift+r
 
+**Login Screen/Lightdm:**
+
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
 
 background= hex color code or path to image
