@@ -33,6 +33,8 @@ bash i3_customized.sh
 
 Reload the configuration file mod+Shift+r
 
+reboot
+
 **Login Screen/Lightdm:**
 
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the wallpaper of the login screen.
@@ -48,6 +50,8 @@ If you would like the login page the same color as the desktop wallpaper, use he
 other neutral colors https://www.color-name.com/neutral-blue.color
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
+
+reboot
 
 **Wallpaper:**
 
