@@ -61,6 +61,8 @@ other neutral colors https://www.color-name.com/neutral-blue.color
 
 https://itsfoss.com/i3-customization/
 
+https://www.reddit.com/r/unixporn/
+
 **Key Bindings:**
 
 Web Browser mod+b
