@@ -2,6 +2,8 @@
 
 This is a simple i3 setup. Smart gaps, standard terminal, i3status bar, i3lock screen, menu, and cava.
 
+
+
  <img src="debian_i3_dracula_cava.png" alt="debian i3 desktop displaying dracula color theme for xfce terminal and cava"> 
 
 **Install:**
