@@ -66,7 +66,7 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
- <img src="debian_i3_dracula_cava.png" alt="debian i3 desktop displaying terminal gaps and terminal audio visualizer"> 
+ <img src="debian_i3_dracula.png" alt="debian i3 desktop and dracula theme for xfce4 terminal"> 
 
 **You can customize the desktop even more...**
 
