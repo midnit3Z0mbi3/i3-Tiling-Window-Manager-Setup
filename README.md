@@ -20,12 +20,6 @@ sudo bash i3_install_setup.sh
 
 reboot
 
-you now have a working i3 setup
-
-you can choose to create a config and edit it manually, or you can use my config
-
-whichever option you choose generate a config when asked after rebooting.
-
 cd i3-window-manager-setup
 
 chmod +x i3_customized.sh
