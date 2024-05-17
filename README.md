@@ -27,6 +27,8 @@ bash i3_customized.sh
 
 Reload the configuration file mod+Shift+r
 
+change lightdm background
+
 reboot
 
 <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
