@@ -67,6 +67,14 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
+wallpaper 
+
+https://pixlr.com
+
+https://wall.alphacoders.com/
+
+https://hdqwalls.com/
+
 
 **You can customize the desktop even more...**
 
