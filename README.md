@@ -23,10 +23,6 @@ sudo bash i3_install_setup.sh
 
 reboot
 
-cd i3-window-manager-setup
-
-chmod +x i3_customized.sh
-
 bash i3_customized.sh
 
 Reload the configuration file mod+Shift+r
