@@ -205,7 +205,7 @@ smart_gaps on
 #exec --no-startup-id feh --bg-scale /home/user/Pictures/wallpapers/
 
 #Wallpaper solid color use xsetroot
-exec --no-startup-id xsetroot -solid "#4D5C74" 
+exec --no-startup-id xsetroot -solid "#1e1e2e" 
 
 #firefox
 bindsym $mod+b exec --no-startup-id firefox
