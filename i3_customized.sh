@@ -17,7 +17,7 @@ cp dracula.cava ~/.config/cava/config
 mkdir ~/.themes
 cd ~/custom
 wget https://github.com/dracula/gtk/archive/master.zip
-uzip master.zip
+unzip master.zip
 mv gtk-master/ Dracula
 mv Dracula ~/.themes
 wget https://github.com/dracula/gtk/files/5214870/Dracula.zip
