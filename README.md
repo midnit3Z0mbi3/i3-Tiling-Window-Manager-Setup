@@ -17,7 +17,7 @@ clone this repository and run the set up script
 
 git clone https://github.com/midnit3Z0mbi3/i3-Tiling-Window-Manager-Setup.git
 
-chmod +x i3_install_setup.sh
+chmod +x *.sh
 
 sudo bash i3_install_setup.sh
 
