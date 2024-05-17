@@ -25,6 +25,7 @@ unzip Dracula.zip
 mv Dracula ~/.icons
 mkdir -p $HOME/.local/share/gtksourceview-4/styles
 cd ~/custom
-git clone https://github.com/dracula/mousepad.git && cd mousepad
+git clone https://github.com/dracula/mousepad.git
+cd mousepad
 cp dracula.xml ~/.local/share/gtksourceview-4/styles
 
