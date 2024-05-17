@@ -2,6 +2,7 @@
 
 This is a simple i3 setup. Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
 
+You can choose to set the color scheme to Dracula for the terminal, thunar, lxappearance, and mousepad.
 
 
  <img src="debian_i3_dracula_cava.png" alt="debian i3 desktop displaying dracula color theme for xfce terminal and cava"> 
