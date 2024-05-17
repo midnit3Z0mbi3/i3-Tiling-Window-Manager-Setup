@@ -67,7 +67,7 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
-wallpaper 
+wallpaper hd, 4k, 8k
 
 https://pixlr.com
 
