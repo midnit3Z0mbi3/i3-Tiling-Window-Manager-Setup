@@ -45,7 +45,7 @@ userbackground= false (to use a solid color for the background)
 
 userbackground= true (to use an image for the background)
 
-If you would like the login page the same color as the desktop wallpaper, use hex code #4D5C74 
+If you would like the login page the same color as the desktop wallpaper, use hex code #1e1e2e
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
