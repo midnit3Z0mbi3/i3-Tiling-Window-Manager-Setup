@@ -76,6 +76,8 @@ https://www.reddit.com/r/unixporn/
 
 https://draculatheme.com/
 
+https://github.com/catppuccin
+
 **Key Bindings:**
 
 Web Browser mod+b
