@@ -2,7 +2,7 @@
 
 This is a simple i3 setup. Smart gaps, standard terminal, i3status bar, i3lock screen, menu, and cava. Cava is a bar spectrum audio visualizer for terminal (ncurses) or desktop (SDL). You can choose to set the terminal to the Dracula color theme. Edit>Preferences>Color
 
- <img src="debian_i3_dracula.png" alt="debian i3"> 
+ <img src="debian_i3_dracula.png" alt="debian i3 desktop displaying dracula color theme for xfce terminal"> 
 
 **Install:**
 
@@ -66,7 +66,7 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
- <img src="debian_i3_dracula_cava.png" alt="debian i3 terminal gaps"> 
+ <img src="debian_i3_dracula_cava.png" alt="debian i3 desktop displaying terminal gaps and terminal audio visualizer"> 
 
 **You can customize the desktop even more...**
 
