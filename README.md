@@ -1,6 +1,6 @@
 # i3-Tiling-Window-Manager-Setup 
 
-This is a simple i3 setup. Smart gaps, standard terminal, i3status bar, i3lock screen, menu, and cava. Cava is a bar spectrum audio visualizer for terminal (ncurses) or desktop (SDL). You can also choose to set the terminal to the Dracula color theme, or any other theme you like. Edit>Preferences>Color
+This is a simple i3 setup. Smart gaps, standard terminal, i3status bar, i3lock screen, menu, and cava. Cava is a bar spectrum audio visualizer for terminal (ncurses) or desktop (SDL). You can also choose to set the terminal to the Dracula color theme, or any other color theme you like. Edit>Preferences>Color
 
  <img src="debian_i3_dracula_cava.png" alt="debian i3 desktop displaying dracula color theme for xfce terminal and cava"> 
 
