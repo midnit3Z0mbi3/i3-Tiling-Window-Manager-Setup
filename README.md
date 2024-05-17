@@ -33,7 +33,9 @@ Reload the configuration file mod+Shift+r
 
 reboot
 
- <img src="debian_i3_desktop.png" alt="debian i3 desktop"> 
+<img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
+
+
 
 **Login Screen/Lightdm:**
 
@@ -63,7 +65,6 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
- <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
 
 **You can customize the desktop even more...**
 
