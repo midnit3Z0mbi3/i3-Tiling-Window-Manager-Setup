@@ -3,7 +3,7 @@ cp config ~/.config/i3/
 mkdir ~/.config/i3status
 cp i3status.conf ~/.config/i3status/
 mkdir ~/.config/cava
-cp cava.conf ~/.config/cava/
+cp mocha.cava ~/.config/cava/
 mkdir -p ~/.local/share/xfce4/terminal/colorschemes
 cd ~
 git clone https://github.com/dracula/xfce4-terminal.git
