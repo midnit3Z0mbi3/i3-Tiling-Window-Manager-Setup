@@ -36,6 +36,8 @@ Reload the configuration file mod+Shift+r
 
 reboot
 
+ <img src="debian_i3_desktop.png" alt="debian i3 desktop"> 
+
 **Login Screen/Lightdm:**
 
 edit the /etc/lightdm/lightdm-gtk-greeter.conf file to change the background of the login screen.
