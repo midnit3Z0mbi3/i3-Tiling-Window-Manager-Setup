@@ -4,7 +4,7 @@ mkdir ~/.config/i3status
 cp i3status.conf ~/.config/i3status/
 mkdir ~/.config/cava
 mkdir -p ~/.local/share/xfce4/terminal/colorschemes
-cd ~
+cd
 mkdir custom
 cd custom
 git clone https://github.com/dracula/xfce4-terminal.git
