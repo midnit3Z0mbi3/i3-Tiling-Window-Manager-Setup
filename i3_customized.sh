@@ -23,7 +23,7 @@ mv Dracula ~/.themes
 wget https://github.com/dracula/gtk/files/5214870/Dracula.zip
 unzip Dracula.zip
 mv Dracula ~/.icons
-mkdir -p $HOME/.local/share/gtksourceview-4/styles
+mkdir -p ~/.local/share/gtksourceview-4/styles
 cd ~/custom
 git clone https://github.com/dracula/mousepad.git
 cd mousepad
