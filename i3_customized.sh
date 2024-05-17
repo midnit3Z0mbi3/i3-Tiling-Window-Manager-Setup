@@ -21,8 +21,7 @@ unzip master.zip
 mv gtk-master/ Dracula
 mv Dracula ~/.themes
 wget https://github.com/dracula/gtk/files/5214870/Dracula.zip
-unzip Dracula.zip
-mv Dracula ~/.icons
+unzip Dracula.zip -d ~/.icons
 mkdir -p ~/.local/share/gtksourceview-4/styles
 cd ~/custom
 git clone https://github.com/dracula/mousepad.git
