@@ -74,6 +74,8 @@ https://itsfoss.com/i3-customization/
 
 https://www.reddit.com/r/unixporn/
 
+https://draculatheme.com/
+
 **Key Bindings:**
 
 Web Browser mod+b
