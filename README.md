@@ -66,7 +66,7 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
- <img src="debian_i3_terminal_gaps.png" alt="debian i3 terminal gaps"> 
+ <img src="debian_i3_cava.png" alt="debian i3 terminal gaps"> 
 
 **You can customize the desktop even more...**
 
