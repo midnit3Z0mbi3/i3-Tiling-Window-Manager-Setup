@@ -14,3 +14,14 @@ cd ~/custom
 git clone https://github.com/dracula/cava.git
 cd cava
 cp dracula.cava ~/.config/cava/config
+cd ~
+mkdir .themes
+wget https://github.com/dracula/gtk/archive/master.zip
+uzip master.zip
+mv gtk-master/ Dracula
+mv Dracula ~/.themes
+rm master.zip
+wget https://github.com/dracula/gtk/files/5214870/Dracula.zip
+unzip Dracula.zip
+mv Dracula ~/.icons
+rm Dracula.zip
