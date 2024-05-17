@@ -27,7 +27,7 @@ bash i3_customized.sh
 
 Reload the configuration file mod+Shift+r
 
-change lightdm background
+sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
