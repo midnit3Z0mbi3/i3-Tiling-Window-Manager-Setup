@@ -65,7 +65,7 @@ solid color (hex code) - xsetroot
 
 other neutral colors https://www.color-name.com/neutral-blue.color
 
-<img src="mousepad_dracula.png" alt="mousepad with dracula color theme">
+<img src="mouspad_dracula.png" alt="mousepad with dracula color theme">
 
 
 **You can customize the desktop even more...**
