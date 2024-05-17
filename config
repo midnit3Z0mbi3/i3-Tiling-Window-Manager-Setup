@@ -198,7 +198,7 @@ smart_gaps on
 
 
 # Transparency with picom compositor
-#exec_always picom -f
+exec_always picom -f
 
 
 #Wallpaper picture use feh
