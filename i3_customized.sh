@@ -14,17 +14,15 @@ cd ~/custom
 git clone https://github.com/dracula/cava.git
 cd cava
 cp dracula.cava ~/.config/cava/config
-cd ~
-mkdir .themes
+mkdir ~/.themes
+cd ~/custom
 wget https://github.com/dracula/gtk/archive/master.zip
 uzip master.zip
 mv gtk-master/ Dracula
 mv Dracula ~/.themes
-rm master.zip
 wget https://github.com/dracula/gtk/files/5214870/Dracula.zip
 unzip Dracula.zip
 mv Dracula ~/.icons
-rm Dracula.zip
 mkdir -p $HOME/.local/share/gtksourceview-4/styles
 cd ~/custom
 git clone https://github.com/dracula/mousepad.git && cd mousepad
