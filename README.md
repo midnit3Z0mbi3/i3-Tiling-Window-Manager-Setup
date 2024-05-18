@@ -25,7 +25,7 @@ reboot
 
 bash i3_customized.sh
 
-Reload the configuration file mod+Shift+r
+Reload the configuration file and open lxapperance
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
