@@ -2,7 +2,7 @@
 
 This is a simple i3 setup. Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
 
-You can choose to set the color scheme to Dracula for the terminal, lxappearance, and mousepad. Also you can change firefox theme to dracula with firefox-addons.
+You can choose to set the color scheme to Dracula for the terminal, lxappearance, mousepad, and firefox (firefox-addons).
 
 
  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
