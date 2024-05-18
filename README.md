@@ -5,7 +5,7 @@ This is a simple i3 setup. Smart gaps, xfce4 terminal, i3status bar, i3lock scre
 You can choose to set the color scheme to Dracula for the terminal, lxappearance (theme and icons), mousepad, and firefox (firefox-addons).
 
 
- <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
+ <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava"> 
 
 **Install:**
 
@@ -31,7 +31,7 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
-<img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme"> 
+<img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and xfce4 terminal"> 
 
 
 
