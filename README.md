@@ -83,7 +83,7 @@ https://draculatheme.com/
 
 https://github.com/catppuccin
 
-**Customize**
+**Customize Tutorials:**
 
 https://itsfoss.com/i3-customization/
 
