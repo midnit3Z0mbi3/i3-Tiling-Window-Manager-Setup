@@ -74,7 +74,7 @@ https://wall.alphacoders.com/
 https://hdqwalls.com/
 
 
-**You can customize the desktop even more...**
+**You can customize the desktop even more. Set your discord, telegram, and many others to the same color scheme**
 
 https://itsfoss.com/i3-customization/
 
