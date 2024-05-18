@@ -76,15 +76,16 @@ https://hdqwalls.com/
 
 **You can customize the desktop even more. Set your discord, telegram, and many others to the same color scheme**
 
-https://itsfoss.com/i3-customization/
-
-https://www.reddit.com/r/unixporn/
 
 **My favorites:**
 
 https://draculatheme.com/
 
 https://github.com/catppuccin
+
+https://itsfoss.com/i3-customization/
+
+https://www.reddit.com/r/unixporn/
 
 **Key Bindings:**
 
