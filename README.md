@@ -83,6 +83,8 @@ https://draculatheme.com/
 
 https://github.com/catppuccin
 
+**Customize**
+
 https://itsfoss.com/i3-customization/
 
 https://www.reddit.com/r/unixporn/
