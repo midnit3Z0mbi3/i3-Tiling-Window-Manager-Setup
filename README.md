@@ -93,6 +93,8 @@ https://www.reddit.com/r/unixporn/
 
 https://github.com/xxxserxxx/gotop
 
+go install github.com/xxxserxxx/gotop/v4/cmd/gotop@latest
+
 **Key Bindings:**
 
 Web Browser mod+b
