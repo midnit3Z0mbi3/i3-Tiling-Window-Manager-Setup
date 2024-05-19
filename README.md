@@ -60,6 +60,8 @@ reboot
 
 **Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
 
+<img src="demo.gif" alt="gotop demo">
+
 https://github.com/xxxserxxx/gotop
 
 go install github.com/xxxserxxx/gotop/v4/cmd/gotop@latest
