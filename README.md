@@ -89,6 +89,10 @@ https://itsfoss.com/i3-customization/
 
 https://www.reddit.com/r/unixporn/
 
+**Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
+
+https://github.com/xxxserxxx/gotop
+
 **Key Bindings:**
 
 Web Browser mod+b
