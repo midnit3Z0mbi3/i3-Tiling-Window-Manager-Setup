@@ -1,6 +1,6 @@
 # i3-Tiling-Window-Manager-Setup 
 
-This is a simple i3 setup. Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
+This is a simple i3 setup script. Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
 
 You can choose to set the color scheme to Dracula for the terminal, lxappearance (theme and icons), mousepad, and firefox (firefox-addons).
 
