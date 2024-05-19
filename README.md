@@ -58,6 +58,8 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
+**Optional gotop install**
+
 **Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
 
 <img src="https://github.com/xxxserxxx/gotop/blob/master/assets/screenshots/demo.gif" alt="gotop demo">
