@@ -60,7 +60,7 @@ reboot
 
 **Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
 
-<img src="demo.gif" alt="gotop demo">
+<img src="https://github.com/xxxserxxx/gotop/blob/master/assets/screenshots/demo.gif" alt="gotop demo">
 
 https://github.com/xxxserxxx/gotop
 
