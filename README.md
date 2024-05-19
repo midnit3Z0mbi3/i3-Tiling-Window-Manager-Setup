@@ -9,6 +9,7 @@ You can choose to set the color scheme to Dracula for the terminal, lxappearance
 
  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava"> 
 
+
 **Install:**
 
 Install Debian or Kali Linux. Do not install a desktop environment.
@@ -57,6 +58,12 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
+**Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
+
+https://github.com/xxxserxxx/gotop
+
+go install github.com/xxxserxxx/gotop/v4/cmd/gotop@latest
+
 **Wallpaper:**
 
 edit i3 config options at the bottom of the configuration file
@@ -91,11 +98,6 @@ https://itsfoss.com/i3-customization/
 
 https://www.reddit.com/r/unixporn/
 
-**Gotop a terminal based graphical activity monitor inspired by gtop and vtop:**
-
-https://github.com/xxxserxxx/gotop
-
-go install github.com/xxxserxxx/gotop/v4/cmd/gotop@latest
 
 **Key Bindings:**
 
