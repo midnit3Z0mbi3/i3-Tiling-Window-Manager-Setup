@@ -1,6 +1,6 @@
 # i3-Tiling-Window-Manager-Setup 
 
-Scripts to setup i3 tiling window manager for Debian or Kali Linux. Dracula theme. 
+Scripts to setup i3 tiling window manager desktop environment for Debian or Kali Linux. Dracula theme.
 
 Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
 
