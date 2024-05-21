@@ -60,7 +60,7 @@ reboot
 
 **Btop**
 
-<img src="https://github.com/aristocratos/btop/blob/main/Img/alt.png" alt="gotop demo">
+<img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
 
 
 
