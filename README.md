@@ -58,7 +58,7 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
-**Btop. A terminal based graphical activity monitor**
+**Btop Installed. Btop is a terminal based graphical activity monitor**
 
 <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
 
