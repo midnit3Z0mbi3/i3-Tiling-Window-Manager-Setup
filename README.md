@@ -76,7 +76,7 @@ https://wall.alphacoders.com/
 
 https://hdqwalls.com/
 
-**Btop is Installed. Btop is a terminal based resource monitor**
+**Btop is installed. Btop is a terminal based resource monitor**
 
 <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
 
