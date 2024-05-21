@@ -90,7 +90,7 @@ https://hdqwalls.com/
 
 https://draculatheme.com/
 
-https://github.com/catppuccin
+https://catppuccin.com/ports
 
 **Customize Tutorials:**
 
