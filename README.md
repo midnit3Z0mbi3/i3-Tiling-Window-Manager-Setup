@@ -58,12 +58,6 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
-**Btop Installed. Btop is a terminal based resource monitor**
-
-<img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
-
-
-
 **Wallpaper:**
 
 edit i3 config options at the bottom of the configuration file
@@ -81,6 +75,10 @@ https://pixlr.com
 https://wall.alphacoders.com/
 
 https://hdqwalls.com/
+
+**Btop is Installed. Btop is a terminal based resource monitor**
+
+<img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
 
 
 **You can customize the desktop even more. Set your discord, telegram, and many others to the same color scheme**
