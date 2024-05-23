@@ -2,7 +2,7 @@
 
 Shell scripts and dot files for setting up i3 tiling window manager desktop environment. Debian or Kali Linux. Dracula theme. 
 
- <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava"> 
+ <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar."> 
 
 
 **Install:**
@@ -29,7 +29,7 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
-<img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and xfce4 terminal"> 
+<img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava."> 
 
 
 
