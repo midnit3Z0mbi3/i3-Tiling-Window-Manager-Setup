@@ -2,7 +2,7 @@
 
 Shell scripts and dot files for setting up i3 tiling window manager desktop environment. Debian or Kali Linux. Dracula theme. 
 
-Smart gaps, xfce4 terminal, i3status bar, i3lock screen, menu, and cava.
+Smart gaps, xfce4 terminal, neovim, i3status bar, i3lock screen, menu, and cava.
 
 You can set the color scheme to Dracula for the terminal, lxappearance (theme and icons), mousepad, and firefox (firefox-addons).
 
