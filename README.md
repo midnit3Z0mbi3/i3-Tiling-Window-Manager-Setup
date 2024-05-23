@@ -2,9 +2,6 @@
 
 Shell scripts and dot files for setting up i3 tiling window manager desktop environment. Debian or Kali Linux. Dracula theme. 
 
-You can set the color scheme to Dracula for the terminal, lxappearance (theme and icons), mousepad, and firefox (firefox-addons).
-
-
  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava"> 
 
 
