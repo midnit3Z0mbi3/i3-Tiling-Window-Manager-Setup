@@ -76,22 +76,6 @@ https://hdqwalls.com/
 <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo">
 
 
-**You can customize the desktop even more. Set your discord, telegram, and many others to the same color scheme**
-
-
-**My favorites:**
-
-https://draculatheme.com/
-
-https://catppuccin.com/ports
-
-**Customize Tutorials:**
-
-https://itsfoss.com/i3-customization/
-
-https://www.reddit.com/r/unixporn/
-
-
 **Key Bindings:**
 
 Web Browser mod+b
