@@ -1,5 +1,6 @@
 # i3-Tiling-Window-Manager-Setup
 
+<h1>This is a simple setup. I know. It allows you to get to work right away.</h1>
 
  <img src="https://y.yarn.co/6ab88429-c1a0-493e-b404-640179ce6378_text.gif" alt="prometheus movie gif">
 
