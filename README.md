@@ -1,6 +1,6 @@
 # i3-Tiling-Window-Manager-Setup
 
- <img src="https://y.yarn.co/6ab88429-c1a0-493e-b404-640179ce6378_text.gif" alt="prometheus movie gif">
+ <img src="https://y.yarn.co/c6abfd33-9330-4617-ba5a-436b34fdcf96_text.gif" alt="prometheus movie gif">
  
 
 
