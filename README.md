@@ -3,15 +3,10 @@
 <h1>This is a simple setup. I know. It allows you to get to work right away.</h1>
 
  <img src="https://y.yarn.co/6ab88429-c1a0-493e-b404-640179ce6378_text.gif" alt="prometheus movie gif">
-
- <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar."> 
-
  
 
 
 **Install:**
-
-Shell scripts and dot files for setting up i3 tiling window manager desktop environment. Debian or Kali Linux. Dracula theme.
 
 Install Debian or Kali Linux. Do not install a desktop environment.
 
@@ -30,6 +25,9 @@ Reload the configuration file and open lxapperance
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
+
+ <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar."> 
+
 
 <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava."> 
 
