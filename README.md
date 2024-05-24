@@ -4,6 +4,12 @@ Shell scripts and dot files for setting up i3 tiling window manager desktop envi
 
  <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar."> 
 
+ This is a simple setup. I know. It allows you to get to work right away.
+
+ <img src="https://y.yarn.co/6ab88429-c1a0-493e-b404-640179ce6378_text.gif" alt="prometheus movie gif">
+
+ 
+
 
 **Install:**
 
