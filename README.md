@@ -46,7 +46,7 @@ font= monospace (you can place any font you want here)
 
 If you would like the login page the same color as the desktop wallpaper, use hex code #1e1e2e
 
-other neutral colors https://www.color-name.com/neutral-blue.color
+other <a href="https://www.color-name.com/neutral-blue.color">neutral colors</a> 
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
@@ -60,7 +60,8 @@ image - feh
 
 solid color (hex code) - xsetroot
 
-other neutral colors https://www.color-name.com/neutral-blue.color
+other 
+<a href="https://www.color-name.com/neutral-blue.color">neutral colors</a> 
 
 wallpaper hd, 4k, 8k
 
