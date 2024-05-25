@@ -26,12 +26,12 @@ Reload the configuration file and open lxapperance
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
-
+<br>
 <div align="center">
   <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="65%"> 
   <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="65%"> 
 </div>
-<br>
+<br><br>
 
 **Login Screen/Lightdm:**
 
@@ -74,6 +74,7 @@ https://hdqwalls.com/
 
 **Btop is installed. Btop is a terminal based resource monitor**
 
+<br>
 <div align="center">
   <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="65%">
 </div>
