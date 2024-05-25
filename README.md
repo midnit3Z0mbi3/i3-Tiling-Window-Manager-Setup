@@ -1,7 +1,7 @@
 # i3-Tiling-Window-Manager-Setup
 <br>
 <div align="center">
-  <img src="https://y.yarn.co/c6abfd33-9330-4617-ba5a-436b34fdcf96_text.gif" alt="prometheus movie gif" width="50%"> 
+  <img src="https://y.yarn.co/c6abfd33-9330-4617-ba5a-436b34fdcf96_text.gif" alt="prometheus movie gif" width="60%"> 
 </div>
 <br><br>
 
@@ -28,8 +28,8 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 reboot
 <br>
 <div align="center">
-  <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="65%"> 
-  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="65%"> 
+  <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="75%"> 
+  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="75%"> 
 </div>
 <br><br>
 
@@ -76,7 +76,7 @@ https://hdqwalls.com/
 
 <br>
 <div align="center">
-  <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="65%">
+  <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="75%">
 </div>
 <br>
 
