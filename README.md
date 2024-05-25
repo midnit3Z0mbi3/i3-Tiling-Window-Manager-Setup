@@ -5,7 +5,9 @@
 
 **Install:**
 
-Install Debian or Kali Linux. Do not install a desktop environment.
+Install 
+<a href="https://www.debian.org/download">Debian</a> or 
+<a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>. Do not install a desktop environment.
 
 update and upgrade
 
