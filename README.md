@@ -31,7 +31,7 @@ reboot
   <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="65%"> 
   <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="65%"> 
 </div>
-
+<br>
 
 **Login Screen/Lightdm:**
 
@@ -77,6 +77,7 @@ https://hdqwalls.com/
 <div align="center">
   <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="65%">
 </div>
+<br>
 
 **Key Bindings:**
 
