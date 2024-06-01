@@ -28,9 +28,9 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 reboot
 <br><br>
 <div align="center">
-  <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="75%"> 
+  <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="75%" height="75%"> 
   <br>
-  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="75%"> 
+  <img src="debian_i3_cava_thunar.png" alt="debian i3 desktop displaying dracula color theme. thunar and cava." width="75%" height="75%"> 
 </div>
 <br><br>
 
