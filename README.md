@@ -1,7 +1,7 @@
 # i3-Tiling-Window-Manager-Setup
 <br>
 <div align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/216638" alt="Anime Player Gif" width="40%" height="40%"> 
+  <img src="https://giffiles.alphacoders.com/216/216638.gif" alt="Anime Player Gif" width="40%" height="40%"> 
 </div>
 <br><br>
 
