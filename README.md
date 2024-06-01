@@ -77,7 +77,7 @@ https://hdqwalls.com/
 
 <br>
 <div align="center">
-  <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="75%">
+  <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="75%" height="75%">
 </div>
 <br>
 
