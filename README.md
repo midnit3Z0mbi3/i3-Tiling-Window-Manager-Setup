@@ -1,7 +1,7 @@
 # i3-Tiling-Window-Manager-Setup
 <br>
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/221/221922.gif" alt="computer set up gif" width="40%" height="40%"> 
+  <img src="https://gifs.alphacoders.com/gifs/view/216638" alt="Anime Player Gif" width="40%" height="40%"> 
 </div>
 <br><br>
 
