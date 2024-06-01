@@ -1,7 +1,7 @@
 # i3-Tiling-Window-Manager-Setup
 <br>
 <div align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/209518" alt="computer set up gif" width="60%"> 
+  <img src="https://giffiles.alphacoders.com/209/209518.gif" alt="computer set up gif" width="60%"> 
 </div>
 <br><br>
 
