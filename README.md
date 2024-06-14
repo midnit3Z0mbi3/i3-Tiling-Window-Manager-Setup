@@ -67,7 +67,7 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
 
-you can remove the git cloned repository and the "custom" directory
+you can remove the git cloned repository and the "custom" directory if desired.
 
 ```
 
