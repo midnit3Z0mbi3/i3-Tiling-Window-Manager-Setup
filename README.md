@@ -6,7 +6,7 @@
 <br><br>
 
 ## A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux. <a href="https://draculatheme.com/">Dracula Theme</a>
-<div>
+<div align="center">
   <img src="https://draculatheme.com/images/og.png" alt="Dracula theme logo from their website. A cartoon like dracula." width="40%" height="40%">
 </div>
 
