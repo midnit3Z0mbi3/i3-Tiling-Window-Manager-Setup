@@ -29,7 +29,7 @@ add $USER to "sudo" group
 
 update and upgrade
 
-install git
+install git and sudo
 
 git clone https://github.com/midnit3Z0mbi3/i3-Tiling-Window-Manager-Setup.git
 
