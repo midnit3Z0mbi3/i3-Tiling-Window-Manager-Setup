@@ -11,7 +11,39 @@ Install
 <a href="https://www.debian.org/download">Debian</a> or 
 <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>. Do not install a desktop environment.
 
+Debian:
+
+```console
+
+add sbin to $PATH
+
+add $USER to "sudo" group
+
 update and upgrade
+
+install git
+
+git clone https://github.com/midnit3Z0mbi3/i3-Tiling-Window-Manager-Setup.git
+
+```
+
+Kali:
+
+```console
+
+update and upgrade
+
+install git
+
+git clone https://github.com/midnit3Z0mbi3/i3-Tiling-Window-Manager-Setup.git
+
+```
+
+Both:
+
+```console
+
+cd i3-Tiling-Window-Manager-Setup
 
 chmod +x *.sh
 
@@ -26,6 +58,8 @@ Reload the configuration file and open lxapperance
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
+
+```
 <br><br>
 <div align="center">
   <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="75%" height="75%"> 
@@ -50,9 +84,13 @@ If you would like the login page the same color as the desktop wallpaper, use he
 
 other <a href="https://www.color-name.com/neutral-blue.color">neutral colors</a> 
 
+
+```console
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
 reboot
+
+```
 
 **Wallpaper:**
 
