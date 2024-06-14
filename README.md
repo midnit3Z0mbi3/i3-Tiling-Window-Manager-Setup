@@ -113,7 +113,7 @@ https://wall.alphacoders.com/
 
 https://hdqwalls.com/
 
-**Btop is installed. Btop is a terminal based resource monitor**
+## Btop is installed. Btop is a terminal based resource monitor.
 
 <br>
 <div align="center">
