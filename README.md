@@ -1,9 +1,4 @@
 # i3-Tiling-Window-Manager-Setup
-<br>
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/216/216638.gif" alt="Anime Player Gif" width="40%" height="40%">
-</div>
-<br><br>
 
 ## A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux. <a href="https://draculatheme.com/">Dracula Theme</a>
 <div align="center">
