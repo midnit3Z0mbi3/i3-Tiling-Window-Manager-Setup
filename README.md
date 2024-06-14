@@ -67,6 +67,10 @@ reboot
 
 Restart i3 Inplace mod+Shift+r
 
+Open Application Launcher (dmenu) mod+d
+
+Close/Kill a window mod+Shift+q
+
 Web Browser mod+b
 
 File Manager mod+Shift+Return  
