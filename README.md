@@ -63,7 +63,7 @@ reboot
 
 ```
 
-### Key Bindings:
+### <a href="https://i3wm.org/docs/refcard">Key Bindings</a>:
 
 Restart i3 Inplace mod+Shift+r
 
