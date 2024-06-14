@@ -2,9 +2,11 @@
 <br>
 <div align="center">
   <img src="https://giffiles.alphacoders.com/216/216638.gif" alt="Anime Player Gif" width="40%" height="40%">
-  <p>A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux.</p>
 </div>
 <br><br>
+<div>
+  <h2>A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux.</h2>
+</div>
 
 ## Install:
 
