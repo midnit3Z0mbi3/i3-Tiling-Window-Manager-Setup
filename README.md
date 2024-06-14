@@ -7,7 +7,7 @@
 
 ## A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux.
 
-**Install:**
+## Install:
 
 Install 
 <a href="https://www.debian.org/download">Debian</a> or 
