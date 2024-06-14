@@ -79,7 +79,7 @@ Password Manager mod+p
 
 Lock screen mod+x 
 
-These are the official <a href="https://i3wm.org/docs/refcard">i3wm Key Bindings</a> from the website.
+These are the official <a href="https://i3wm.org/docs/refcard">i3wm Key Bindings</a> from their website.
 
 <br><br>
 <div align="center">
