@@ -62,6 +62,17 @@ sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 reboot
 
 ```
+
+**Key Bindings:**
+
+Web Browser mod+b
+
+File Manager mod+Shift+Return  
+
+Password Manager mod+p  
+
+Lock screen mod+x 
+
 <br><br>
 <div align="center">
   <img src="debian_i3_thunar.png" alt="debian i3 desktop displaying dracula color theme. terminal and thunar." width="75%" height="75%"> 
@@ -120,14 +131,4 @@ https://hdqwalls.com/
   <img src="https://github.com/aristocratos/btop/blob/main/Img/normal.png" alt="gotop demo" width="75%" height="75%">
 </div>
 <br>
-
-**Key Bindings:**
-
-Web Browser mod+b
-
-File Manager mod+Shift+Return  
-
-Password Manager mod+p  
-
-Lock screen mod+x 
 
