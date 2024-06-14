@@ -63,7 +63,7 @@ reboot
 
 ```
 
-**Key Bindings:**
+### Key Bindings:
 
 Web Browser mod+b
 
