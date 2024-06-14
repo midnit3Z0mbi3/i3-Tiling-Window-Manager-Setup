@@ -55,7 +55,7 @@ reboot
 
 bash i3_customized.sh
 
-Reload the configuration file and open lxapperance
+Restart i3 Inplace and open lxapperance
 
 sudo nano /etc/lightdm/lightdm-gtk-greeter.conf
 
@@ -64,6 +64,8 @@ reboot
 ```
 
 ### Key Bindings:
+
+Restart i3 Inplace mod+Shift+r
 
 Web Browser mod+b
 
