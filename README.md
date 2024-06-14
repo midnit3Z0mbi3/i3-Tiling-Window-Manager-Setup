@@ -63,7 +63,7 @@ reboot
 
 ```
 
-### <a href="https://i3wm.org/docs/refcard">Key Bindings</a>:
+### Key Bindings:
 
 Restart i3 Inplace mod+Shift+r
 
@@ -78,6 +78,8 @@ File Manager mod+Shift+Return
 Password Manager mod+p  
 
 Lock screen mod+x 
+
+These are the official <a href="https://i3wm.org/docs/refcard">i3wm Key Bindings</a> from the website.
 
 <br><br>
 <div align="center">
