@@ -5,7 +5,7 @@
 </div>
 <br><br>
 
-## A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux.
+## A Simple <a href="https://i3wm.org/">i3-wm</a> Setup For Debian or Kali Linux. <a href="https://draculatheme.com/">Dracula Theme</a>
 
 ## Install:
 
